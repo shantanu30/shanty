@@ -1,0 +1,6 @@
+---
+vmwaretools::version: 8.6.5-621624
+ntp::autoupdate: true
+ntp::enable: true
+ntp::servers:
+- vmwsoaapp03-tst.corp.netapp.com

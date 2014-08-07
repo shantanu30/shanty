@@ -1,0 +1,8 @@
+---
+ntp::restrict:
+  -
+ntp::autoupdate: false
+ntp::enable: true
+ntp::servers:
+  - vmwsoaapp03-tst.corp.netapp.com
+
